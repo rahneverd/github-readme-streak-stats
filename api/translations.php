@@ -513,5 +513,3 @@ return [
     'comma_separator' => '、',
   ],
 ];
-
-//
